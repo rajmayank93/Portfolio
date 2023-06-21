@@ -6,7 +6,7 @@ const Header = ({ toggle }) => {
     <div className="Container" style={{ padding: 0 }}>
       <Nav>
         <Logo to="/">
-          <img src="/favicon.ico" alt="logo" />
+          <img src="https://raw.githubusercontent.com/rajmayank93/Portfolio/master/public/favicon.ico" alt="logo" />
         </Logo>
         <NavMenu>
           <NavLink className="menu-item" to="projects">
