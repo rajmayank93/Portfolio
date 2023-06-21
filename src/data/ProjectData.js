@@ -1,7 +1,8 @@
 // --------------------------------------- Project List
+
 export const ProjectList = [
   {
-    img: "/Screenshot.png",
+    img: "https://github.com/rajmayank93/iiit-info/blob/main/assets/Screenshot.png?raw=true",
     title: "IIIT Info App",
     description:
       "A Flutter Application used to see the IIIT College Stats and Reviews",
@@ -10,7 +11,7 @@ export const ProjectList = [
     demo_url: "",
   },
   {
-    img: "/ss1.jpg",
+    img: "https://github.com/rajmayank93/iiit-info/blob/main/assets/ss1.jpg?raw=true",
     title: "BookAdda",
     description: "A Flutter app to read Books Online Using Google Books API",
     tech_stack: ["Flutter", "DART", "Google Book API"],

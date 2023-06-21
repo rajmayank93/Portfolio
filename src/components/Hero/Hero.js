@@ -94,7 +94,10 @@ function Hero() {
           </HeroLeft>
           <HeroRight>
             <ScrollAnimation animateIn="fadeIn">
-              <Image src="/man-svgrepo-com.svg" alt="man-svgrepo" />
+              <Image
+                src="https://raw.githubusercontent.com/rajmayank93/iiit-info/bc07c33598124dc86c8ce34220283f6328a05495/assets/man-svgrepo-com.svg"
+                alt="man-svgrepo"
+              />
             </ScrollAnimation>
           </HeroRight>
         </HeroWrapper>
@@ -103,7 +106,10 @@ function Hero() {
             <ScrollDown to="projects" id="scrollDown">
               <ScrollLink>
                 Scroll down
-                <img src="/scroll-down.svg" alt="scroll-down" />
+                <img
+                  src="https://raw.githubusercontent.com/rajmayank93/iiit-info/0280b545bd39b546490676aa5611bc9a3fb08abe/assets/scroll-down.svg"
+                  alt="scroll-down"
+                />
               </ScrollLink>
             </ScrollDown>
           </ScrollAnimation>
